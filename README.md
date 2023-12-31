@@ -1,4 +1,8 @@
 # Hotel-Management
+#Hotel-Management dashboard 
+***********************************************************************************************************************************************************************************
+https://app.powerbi.com/view?r=eyJrIjoiNTNjYjdkNzUtNTQyMy00YzMwLThmOWItYTMwZTVhYWI1NDE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSection0ffe5cf56dc1deb81d06
+______________________________________________________________________________________________________________________________________________________________________________________________
 The Hotel Management Dashboard in Power BI with emojis is a visually engaging and intuitive tool designed to streamline and enhance the management of hotel operations. This dynamic dashboard integrates key performance indicators (KPIs) and data from various departments, providing a comprehensive overview of hotel performance.  
 🏨 **Hotel Overview:**    - At a glance, see the occupancy rate, room availability, and current reservations.  🔍 **Reservation Insights:**    - Explore detailed information about reservations, including check-in/check-out status, guest names, and booking sources. 
 💼 **Staff Productivity:**    - Monitor staff performance and workload, including housekeeping tasks, front desk activities, and overall workforce efficiency.  
